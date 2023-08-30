@@ -1,5 +1,5 @@
 # Jobify
-This project was done under the guidance of John Smilga with the intention of getting exposure to Full-Stack development . In this I basically built a web app where one has to register on the server by giving their details, after which they can add/modify/delete job applications so as to track these applications in a convenient way. I have also deployed this web app using heroku. <br><br>
+This project was done with the intention of getting exposure to Full-Stack development . In this I basically built a web app where one has to register on the server by giving their details, after which they can add/modify/delete job applications so as to track these applications in a convenient way. I have also deployed this web app using heroku. <br><br>
 <b>Deployed version </b> - https://jobify-deployed.herokuapp.com/
 
 ## Dependencies used
